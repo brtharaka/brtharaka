@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brtharaka&label=Profile%20views&color=0e75b6&style=flat" alt="brtharaka" /> </p>
 
-- 🌱 Aspiring Data Scientist **Data Scientist**
+- 🌱 Aspiring  **Data Scientist**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brtharaka](https://github.com/brtharaka)
 
